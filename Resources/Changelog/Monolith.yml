@@ -27934,3 +27934,20 @@ Entries:
   id: 2993
   time: '2026-11-28T14:13:04.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/5138
+- author: SuperGDPWYL
+  changes:
+    - type: Tweak
+      message: CST Judges can spawn with the CSW-15 "Constable" hardsuit now.
+    - type: Tweak
+      message: Caelestinus LPCs are now green.
+    - type: Tweak
+      message: >-
+        The CDW-20 "Soldat" modsuit is now green, recolour done by
+        thoughtlessuser.
+    - type: Fix
+      message: >-
+        The CST voidsuit selectors now show the correct sprites for their
+        options.
+  id: 2994
+  time: '2026-11-28T16:02:20.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/5140
